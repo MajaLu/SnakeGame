@@ -1,17 +1,3 @@
-
-# snake = Turtle("square")
-# snake.color("white")
-#
-# snake2 = Turtle("square")
-# snake2.color("white")
-# snake2.goto(-20, 0)
-#
-#
-# snake3 = Turtle("square")
-# snake3.color("white")
-# snake3.goto(-40, 0)
-
-
 from turtle import Screen
 from snake import Snake
 from food import Food
